@@ -6,6 +6,10 @@ This project focuses on analyzing **Maven Toys sales data** to discover business
 
 The project includes data analysis, visualization, and an interactive dashboard that presents the most important sales metrics in a simple and clear way.
 
+## 🚀 Live Demo
+
+👉 **[Try the Movie Recommendation System](https://maventoys-dashboard-nshcamtmwqinfbfddlbgvp.streamlit.app/)**
+
 ## 🎯 Project Objectives
 
 * Analyze sales performance.
