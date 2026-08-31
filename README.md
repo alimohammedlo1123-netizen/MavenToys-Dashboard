@@ -58,13 +58,6 @@ Business Insights
    ↓
 Interactive Dashboard
 ```
-
-## 📊 Dashboard
-
-The dashboard provides a visual overview of Maven Toys sales data and helps users explore the main business metrics and trends.
-
-![Maven Toys Dashboard](ReITHu0ycQdJQaBCYhl3FtgQOTQ.jpg)
-
 ## 🔍 Data Analysis
 
 The analysis includes:
